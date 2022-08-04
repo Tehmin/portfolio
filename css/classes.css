@@ -1,0 +1,31 @@
+.flex {
+  display: flex;
+}
+
+.flex_wrap {
+  flex-wrap: wrap;
+}
+
+.align_center {
+  align-items: center;
+}
+
+.justify_between {
+  justify-content: space-between;
+}
+
+.justify_center {
+  justify-content: center;
+}
+
+.flex_content_between {
+  justify-content: space-between;
+}
+
+.tr3 {
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
